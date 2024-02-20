@@ -1,5 +1,5 @@
-## Simple instructions on how to use Git.
-## This assumes that Git is installed.
+# Simple instructions on how to use Git.
+# This assumes that Git is installed.
 
 # Track a folder.
 1) Use terminal to change to the desired folder.
