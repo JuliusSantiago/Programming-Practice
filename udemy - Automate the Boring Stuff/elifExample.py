@@ -1,5 +1,9 @@
-name = 'Bob'
-age = 83
+# Asks for name and age.
+# Response is printed based on conditions entered
+# using else/if.
+
+name = input('What is your name? ')
+age = int(input('What is your age? '))
 if name == 'Alice':
     print('Hi Alice')
 elif age < 12:
