@@ -10,7 +10,7 @@ secretNumber = random.randint(1, 20) # random number 1 to 20
 
 try:
     for guessesTaken in range(1, 7):  # 1 up to, but not including 7
-        print('Take a guesss.')
+        print('Take a guess.')
         guess = int(input())    # ensures argument passed is an integer
 
         if guess < secretNumber:
