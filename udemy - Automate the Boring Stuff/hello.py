@@ -13,5 +13,5 @@ print('You will be ' + str(int(myAge) + 1) + ' in a year.') # concatenates strin
 # string concatenation does only all strings
 # input() will output a string
 # len() to get integer length value
-# str(), int(), float() converts to that data type
+# str(), int(), float() converts to that data type, aka Casting
 # print() for displaying value passed to it
